@@ -30,15 +30,15 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: Food Science & Biotechnology
+      institution: Kyungpook National University
+      year: ""
+    - course: MEng in Food Science & Biotechnology
+      institution: Kyungpook National University
+      year: 2020
     - course: BSc in Food Technology, Biotechnology, and
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Chonnam National University
+      year: 2018
 superuser: true
 last_name: Bighetti
 highlight_name: true
