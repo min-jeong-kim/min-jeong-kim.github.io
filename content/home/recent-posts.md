@@ -1,6 +1,6 @@
 ---
-widget: https://precious-puppy-8c1c37.netlify.app/#
-widget_id: recent-publications
+widget: about
+widget_id: homepage
 headless: true
 weight: 20
 title: biography
